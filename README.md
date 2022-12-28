@@ -1,5 +1,11 @@
 # nebula-demo
 
+## Preview
+![Nebula](images/nebula.jpg?raw=true "Nebula")
+
+## Demo
+https://demos.brian-fouts.com/nebula/index.html
+
 ## Project Setup
 
 ```sh
@@ -11,3 +17,10 @@ npm install
 ```sh
 npm run dev
 ```
+
+### Compile for distribution
+
+```sh
+npm run build
+```
+
