@@ -1,7 +1,7 @@
 # nebula-demo
 
 ## Preview
-![Nebula](images/nebula.jpg?raw=true "Nebula")
+![Nebula](images/nebula.png?raw=true "Nebula")
 
 ## Demo
 https://demos.brian-fouts.com/nebula/index.html
