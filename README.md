@@ -4,23 +4,23 @@
 ![Nebula](images/nebula.png?raw=true "Nebula")
 
 ## Demo
-https://demos.brian-fouts.com/nebula/index.html
+https://nebula.brian-fouts.com
 
 ## Project Setup
 
-```sh
+```bash
 npm install
 ```
 
 ### Compile and Hot-Reload for Development
 
-```sh
+```bash
 npm run dev
 ```
 
 ### Compile for distribution
 
-```sh
+```bash
 npm run build
 ```
 
